@@ -6,7 +6,7 @@ url: ""  # Leave blank for GitHub Pages automatic deployment
 
 baseurl: ""  # Leave this empty unless your blog is in a subfolder
 
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
