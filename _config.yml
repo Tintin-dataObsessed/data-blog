@@ -1,9 +1,23 @@
 title: "Michelle Chekwoti's Data Blog"
 description: "Practical data notes, curious explorations, and portfolio logic"
+author: "Michelle Chekwoti"
+email: your-email@example.com  # Optional — update or remove
+url: ""  # Leave blank for GitHub Pages automatic deployment
+
+baseurl: ""  # Leave this empty unless your blog is in a subfolder
+
 theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: kramdown
+
+show_excerpts: true
+
+# Navigation links (optional)
+header_pages:
+  - index.md
+  - about.md  # You can create this later if you like
 
