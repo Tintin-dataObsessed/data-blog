@@ -1,6 +1,6 @@
 # Michelle Chekwoti – Data Blog
 
-Welcome to my data blog! 👋
+Welcome to my data blog!
 
 This space is where I break down the logic behind my data projects—from financial modeling and Excel automations to Python analytics and Power BI dashboards. Each post explores the problem, the tools I used, and what I learned.
 
