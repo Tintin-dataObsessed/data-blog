@@ -1,8 +1,9 @@
 title: "Michelle Chekwoti's Data Blog"
-description: Practical data notes, curious explorations, and portfolio logic
-baseurl: "" 
-url: "https://tintin-dataobsessed.github.io"
+description: "Practical data notes, curious explorations, and portfolio logic"
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 
