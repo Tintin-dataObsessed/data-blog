@@ -1,14 +1,17 @@
 ---
 layout: home
-title: "Michelle Chekwoti's Data Blog"
+title: "Welcome to My Data Blog"
 ---
 
-Welcome to my data blog! 👋
+👋 Welcome!
 
-This is where I share:
-- Real-world data automation challenges
-- Financial and economic data insights
-- Stories from transitioning from finance to analytics
-- Explorations in Python, SQL, VBA, and Power BI
+I'm Michelle Chekwoti — a financial analyst transitioning into data analytics. This blog breaks down the logic behind my portfolio projects.
 
-🗂️ [View my portfolio](https://michellechekwoti-portfolio.carrd.co)
+### 📌 What You’ll Find Here:
+- Step-by-step data walkthroughs
+- Real-world challenges and how I tackled them
+- Financial insights powered by Python, Power BI & Excel
+- Stories from my transition journey
+
+🔗 [Visit my portfolio](https://michellechekwoti-portfolio.carrd.co)
+
